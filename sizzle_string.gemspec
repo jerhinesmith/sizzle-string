@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.files += Dir.glob("lib/**/*.rb")
   spec.homepage = 'http://jerhinesmith.github.com/sizzle_string/'
   spec.licenses = ['MIT']
-  spec.name = 'SizzleString'
+  spec.name = 'sizzle_string'
   spec.require_paths = ['lib']
   spec.required_rubygems_version = Gem::Requirement.new('>= 1.3.6')
   spec.summary = spec.description

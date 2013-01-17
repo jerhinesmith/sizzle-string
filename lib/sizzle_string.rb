@@ -1,5 +1,2 @@
-class SizzleString
-  def self.hi
-    puts "Hello world!"
-  end
-end
+require "sizzle_string/version"
+require "sizzle_string/configuration"
